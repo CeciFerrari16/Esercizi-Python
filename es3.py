@@ -14,4 +14,4 @@ while True:
     else:
         break
 
-print("La media è", round(media, 2))
+print("La media è", round(media, 2), "£")
